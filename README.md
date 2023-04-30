@@ -21,5 +21,5 @@
 
 <a href="https://medium.com/@adithyakrishnav001/hackthissite-basics-full-b32aa0a99424">Basics</a>
 
-<h2 id="nc">NahamCon</h2>
+<h2 id="nc">NahamCon 2022</h2>
 <a href="https://medium.com/@adithyakrishnav001/nahamcon-eu-ctf-2022-f030c364ec0f">NahamCon</a>
