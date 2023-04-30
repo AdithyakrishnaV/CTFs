@@ -1,10 +1,10 @@
 # CTFs
 
-<a href="htb">HackTheBox</a>
+<a href="#htb">HackTheBox</a>
 
-<a href="hts">HackThisSite</a>
+<a href="#hts">HackThisSite</a>
 
-<a href="nc">NahamCon</a>
+<a href="#nc">NahamCon</a>
 
 <h2 id="htb">HackTheBox</h2>
 
