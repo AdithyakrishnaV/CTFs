@@ -25,11 +25,11 @@
   
 ### <a href="https://www.youtube.com/playlist?list=PL2K366VwU2XE8v6uCyljhywoMKKJFj5Og">YouTube</a>
 
-## <a href="https://medium.com/@adithyakrishnav001/hackthissite-basics-full-b32aa0a99424">Basics</a>
+### <a href="https://medium.com/@adithyakrishnav001/hackthissite-basics-full-b32aa0a99424">Basics</a>
 
   
   
   
 <h2 id="nc">NahamCon </h2>
   
-## <a href="https://medium.com/@adithyakrishnav001/nahamcon-eu-ctf-2022-f030c364ec0f">NahamCon 2022</a>
+### <a href="https://medium.com/@adithyakrishnav001/nahamcon-eu-ctf-2022-f030c364ec0f">NahamCon 2022</a>
