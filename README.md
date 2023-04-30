@@ -8,7 +8,7 @@
 
 <h2 id="htb">HackTheBox</h2>
 
-<a href="htb">HackTheBox</a>
+<h3>HackTheBox Web Challenge<h3>
 
 <a href="https://medium.com/@adithyakrishnav001/templated-hackthebox-web-challenge-my-perspective-54823e2d39b2">Templated</a>
 
@@ -21,5 +21,5 @@
 
 <a href="https://medium.com/@adithyakrishnav001/hackthissite-basics-full-b32aa0a99424">Basics</a>
 
-<h2 id="nc">NahamCon 2022</h2>
-<a href="https://medium.com/@adithyakrishnav001/nahamcon-eu-ctf-2022-f030c364ec0f">NahamCon</a>
+<h2 id="nc">NahamCon </h2>
+<a href="https://medium.com/@adithyakrishnav001/nahamcon-eu-ctf-2022-f030c364ec0f">NahamCon 2022</a>
