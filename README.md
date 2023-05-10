@@ -28,7 +28,7 @@
 ### <a href="https://medium.com/@adithyakrishnav001/hackthissite-basics-full-b32aa0a99424">Basics</a>
   
 ### Realistic:-
-### <a href="https://medium.com/@adithyakrishnav001/uncle-arnolds-local-band-review-159c6076e7e5" >Uncle Arnold’s Local Band Review</a<
+### <a href="https://medium.com/@adithyakrishnav001/uncle-arnolds-local-band-review-159c6076e7e5" >Uncle Arnold’s Local Band Review</a>
   
   
   
