@@ -29,7 +29,7 @@
   
 ### Realistic:-
 ### <a href="https://medium.com/@adithyakrishnav001/uncle-arnolds-local-band-review-159c6076e7e5" >Uncle Arnold’s Local Band Review</a>
-  
+### <a href="https://medium.com/@adithyakrishnav001/chicago-american-nazi-party-hackthissite-fdfaeac5c8c5" >Chicago American Nazi Party </a>
   
   
 <h2 id="nc">NahamCon </h2>
