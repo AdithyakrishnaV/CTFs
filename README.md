@@ -17,7 +17,6 @@
 
 <a href="https://medium.com/@adithyakrishnav001/phonebook-hackthebox-web-challenge-my-perspective-e6621e9df112">Phonebook</a>
 
-<a href="">Weather App</a>
 
   
   
