@@ -20,7 +20,11 @@
 <a href="https://medium.com/@adithyakrishnav001/phonebook-hackthebox-web-challenge-my-perspective-e6621e9df112">Phonebook</a>
 
 <a href="https://www.youtube.com/watch?v=_x9-Zx1ueK0">C.O.P (Cult of Pickles)</a>
-  
+
+<h3>HackTheBox Reversing Challenge<h3>
+
+<a href="https://www.youtube.com/watch?v=8sFY9q0xOXY&list=PL2K366VwU2XEWxa2IlwttusMm8lZr73lT&index=6" >Behind the Scenes</a>
+
   
   
 <h2 id="hts">HackThisSite</h2>
