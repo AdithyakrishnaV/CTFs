@@ -26,7 +26,14 @@
 <a href="https://www.youtube.com/watch?v=8sFY9q0xOXY&list=PL2K366VwU2XEWxa2IlwttusMm8lZr73lT&index=6" >Behind the Scenes</a>
 
 <a href="https://www.youtube.com/watch?v=D4dc-O85slw">Simple Encryptor</a>
-  
+
+<a href="https://www.youtube.com/watch?v=LPa-z3vCu00">Exatlon</a>
+
+<a href="https://www.youtube.com/watch?v=2ar1wd97oXU">Bypass</a>
+
+<a href="https://www.youtube.com/watch?v=2ar1wd97oXU">Bypass</a>
+
+
 <h2 id="hts">HackThisSite</h2>
   
 ### <a href="https://www.youtube.com/playlist?list=PL2K366VwU2XE8v6uCyljhywoMKKJFj5Og">YouTube</a>
