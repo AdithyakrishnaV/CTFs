@@ -11,7 +11,16 @@
 <a href="#thm">TryHackMe</a>
 # Vulnerabilities
 <a href="#web">Web Vulnerabilities </a>
-### <a href="https://github.com/AdithyakrishnaV/Web-Vulnerabilities">Web Vulnerabilities </a>
+
+# Network Fundamentals
+
+### <a herf="https://github.com/AdithyakrishnaV/CCNA_200-301" >CCNA: Cisco Certified Network Associate (200-301) </a>
+
+# Programming
+
+### <a href="https://github.com/AdithyakrishnaV/Data-Structures-and-Algorithms">Data Structures and Algorithms </a>
+### <a href="https://github.com/AdithyakrishnaV/Python-for-Penetration-Testing">Python for Penetration Testing  </a>
+### <a href="">Chip-8 Emulator</a>
 ------------------------------------------
 
 <h2 id="htb">HackTheBox</h2>
@@ -48,7 +57,8 @@
 ### <a href="https://medium.com/@adithyakrishnav001/chicago-american-nazi-party-hackthissite-fdfaeac5c8c5" >Chicago American Nazi Party </a>
 
 <h2 id="h101">Hacker101</h2>
-<a href="https://youtu.be/1cn-MR_mD6E?si=uNmoQoFskUkAjhs4">BugDB V1 & BugDB V2 | Web,GraphQL </a>
+
+### <a href="https://youtu.be/1cn-MR_mD6E?si=uNmoQoFskUkAjhs4">BugDB V1 & BugDB V2 | Web,GraphQL </a>
 
 <h2 id="nc">NahamCon </h2>
   
