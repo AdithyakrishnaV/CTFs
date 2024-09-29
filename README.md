@@ -10,6 +10,7 @@
 
 <a href="#thm">TryHackMe</a>
 # Vulnerabilities
+<a href="#web">Web Vulnerabilities </a>
 ### <a href="https://github.com/AdithyakrishnaV/Web-Vulnerabilities">Web Vulnerabilities </a>
 ------------------------------------------
 
@@ -56,3 +57,17 @@
 <h2 id="thm">TryHackMe</h2>
 
 <a href="https://www.youtube.com/watch?v=V3B_Ch3yEmM">KoTH Food CTF</a>
+
+<h2 id="web">Web Vulnerabilities</h2>
+# <a href="https://towardsdev.com/sql-injection-web-security-academy-union-attack-blind-sql-9d14e159df9c" target="_blank" >SQL Injection Union attack & Blind SQL</a>
+
+# <a href="https://medium.com/@adithyakrishnav001/broken-access-controls-idor-access-control-vulnerabilities-and-privilege-escalation-922ba35fdc20" target="_blank" >Broken Access Controls & IDOR: Access control vulnerabilities and privilege escalation</a>
+
+# <a href="https://medium.com/@adithyakrishnav001/server-side-request-forgery-ssrf-bf23802cfb12">Server-side request forgery (SSRF)</a>
+
+# <a href="https://medium.com/@adithyakrishnav001/ssi-server-side-include-and-ssi-injection-d37d18ad0248">SSI (Server Side Include)and SSI Injection</a>
+
+# <a href="https://medium.com/towardsdev/prototype-pollution-bcebc9cd3164"> Prototype Pollution</a>
+
+# <a href="https://medium.com/@adithyakrishnav001/jwt-attacks-621a4410e4e2">JWT attacks </a>
+
