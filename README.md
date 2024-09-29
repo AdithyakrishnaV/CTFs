@@ -14,7 +14,7 @@
 
 # Network Fundamentals
 
-### <a herf="https://github.com/AdithyakrishnaV/CCNA_200-301" >CCNA: Cisco Certified Network Associate (200-301) </a>
+### <a href="https://github.com/AdithyakrishnaV/CCNA_200-301" > CCNA: Cisco Certified Network Associate (200-301) </a>
 
 # Programming
 
