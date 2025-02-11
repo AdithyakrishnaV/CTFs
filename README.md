@@ -1,13 +1,6 @@
 # CTFs My Perspective
-<a href="https://www.buymeacoffee.com/adithyakrishna" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.paypal.com/ncp/payment/7FFKGJYENL562" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-<script src="https://www.paypal.com/sdk/js?client-id=BAAPoXLsLheqoWE52Lyb-8bXn3WWkv-aihZVWO7NLyqLstdoADF6XyFPjQYBW1zp26IDh4e2sAXB7P3jQA&components=hosted-buttons&disable-funding=venmo&currency=USD"></script>
-<div id="paypal-container-7FFKGJYENL562"></div>
-<script>
-  paypal.HostedButtons({
-    hostedButtonId: "7FFKGJYENL562",
-  }).render("#paypal-container-7FFKGJYENL562")
-</script>
 
 
 <a href="#htb">HackTheBox</a>
