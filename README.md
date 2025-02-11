@@ -96,3 +96,5 @@
 
 ### <a href="https://www.youtube.com/watch?v=ULaOL_LLWcs">Bug Boundy Hunting | Leaked Credentials | TruffleHog </a>
 
+### <a href="https://medium.com/towardsdev/apk-bug-boundy-guide-7968d04baf7e"> Apk Bug Boundy Guide </a>
+
