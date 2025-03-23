@@ -17,25 +17,25 @@
 
 # Network Fundamentals
 
-### <a href="https://github.com/AdithyakrishnaV/CCNA_200-301" > CCNA: Cisco Certified Network Associate (200-301) </a>
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/cisco-devises-configuration-commands.html" > CCNA: Cisco Certified Network Associate (200-301) </a>
 
 # Programming
 
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/making-chip-8-emulator-inc.html">Chip-8 Emulator</a>
 ### <a href="https://github.com/AdithyakrishnaV/Data-Structures-and-Algorithms">Data Structures and Algorithms </a>
 ### <a href="https://github.com/AdithyakrishnaV/Python-for-Penetration-Testing">Python for Penetration Testing  </a>
 ### <a href="https://github.com/AdithyakrishnaV/Binary_Exploitation/tree/master">Binary Exploitation</a>
-### <a href="">Chip-8 Emulator</a>
 ------------------------------------------
 
 <h2 id="htb">HackTheBox</h2>
 
 <h3>HackTheBox Web Challenge<h3>
 
-<a href="https://medium.com/@adithyakrishnav001/templated-hackthebox-web-challenge-my-perspective-54823e2d39b2">Templated</a>
-
-<a href="https://medium.com/@adithyakrishnav001/phonebook-hackthebox-web-challenge-my-perspective-e6621e9df112">Phonebook</a>
+<a href="https://adithyakrishnav.blogspot.com/2025/03/hackthebox-playlist-more-ctf-solutions.html">Phonebook</a>
 
 <a href="https://www.youtube.com/watch?v=_x9-Zx1ueK0">C.O.P (Cult of Pickles)</a>
+
+<a href="https://adithyakrishnav.blogspot.com/2025/03/templated-hackthebox-web-challenge-my.html">Templated</a>
 
 <h3>HackTheBox Reversing Challenge<h3>
 
@@ -59,7 +59,7 @@
 ### <a href="https://medium.com/@adithyakrishnav001/hackthissite-basics-full-b32aa0a99424">Basics</a>
   
 ### Realistic:-
-### <a href="https://medium.com/@adithyakrishnav001/uncle-arnolds-local-band-review-159c6076e7e5" >Uncle Arnold’s Local Band Review</a>
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/uncle-arnolds-local-band-review.html" >Uncle Arnold’s Local Band Review</a>
 ### <a href="https://medium.com/@adithyakrishnav001/chicago-american-nazi-party-hackthissite-fdfaeac5c8c5" >Chicago American Nazi Party </a>
 
 <h2 id="h101">Hacker101</h2>
@@ -76,21 +76,21 @@
 
 <h2 id="web">Web Vulnerabilities</h2>
 
-### <a href="https://towardsdev.com/sql-injection-web-security-academy-union-attack-blind-sql-9d14e159df9c" target="_blank" >SQL Injection Union attack & Blind SQL</a>
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/sql-injection-web-security-academy.html" target="_blank" >SQL Injection Union attack & Blind SQL</a>
 
-### <a href="https://medium.com/@adithyakrishnav001/broken-access-controls-idor-access-control-vulnerabilities-and-privilege-escalation-922ba35fdc20" target="_blank" >Broken Access Controls & IDOR: Access control vulnerabilities and privilege escalation</a>
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/broken-access-controls-idor-access.html" target="_blank" >Broken Access Controls & IDOR: Access control vulnerabilities and privilege escalation</a>
 
-### <a href="https://medium.com/@adithyakrishnav001/server-side-request-forgery-ssrf-bf23802cfb12">Server-side request forgery (SSRF)</a>
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/server-side-request-forgery-ssrf.html">Server-side request forgery (SSRF)</a>
 
-### <a href="https://medium.com/@adithyakrishnav001/ssi-server-side-include-and-ssi-injection-d37d18ad0248">SSI (Server Side Include)and SSI Injection</a>
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/ssi-server-side-includeand-ssi-injection.html">SSI (Server Side Include)and SSI Injection</a>
 
-### <a href="https://medium.com/towardsdev/prototype-pollution-bcebc9cd3164"> Prototype Pollution</a>
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/prototype-pollution.html"> Prototype Pollution</a>
 
-### <a href="https://medium.com/@adithyakrishnav001/jwt-attacks-621a4410e4e2">JWT attacks </a>
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/jwt-attacks-everything-you-need-to-know.html">JWT attacks </a>
 
-### <a href="https://medium.com/towardsdev/business-logic-vulnerabilities-or-application-logic-vulnerabilities-or-simply-logic-flaws-c67bb866808e" >Business Logic Vulnerabilities or Application Logic Vulnerabilities or simply “logic flaws” </a>
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/business-logic-vulnerabilities-or.html" >Business Logic Vulnerabilities or Application Logic Vulnerabilities or simply “logic flaws” </a>
 
-### <a href="https://medium.com/towardsdev/api-vulnerabilities-9b68a0bd87a8" > API VULNERABILITIES</a>
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/apk-bug-boundy-guide.html" > Apk Bug Boundy Guide</a>
 
 ### <a href="https://www.youtube.com/watch?v=LST7FuCwb3Q" > API Bug Bounty Hunting: Reconnaissance and Reverse Engineering an API</a>
 
