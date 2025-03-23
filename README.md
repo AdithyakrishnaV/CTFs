@@ -29,7 +29,7 @@
 
 <h2 id="htb">HackTheBox</h2>
 
-<h3>HackTheBox Web Challenge<h3>
+<h3> Web Challenge<h3>
 
 <a href="https://adithyakrishnav.blogspot.com/2025/03/hackthebox-playlist-more-ctf-solutions.html">Phonebook</a>
 
@@ -37,7 +37,7 @@
 
 <a href="https://adithyakrishnav.blogspot.com/2025/03/templated-hackthebox-web-challenge-my.html">Templated</a>
 
-<h3>HackTheBox Reversing Challenge<h3>
+<h3> Reverse Engineering Challenge<h3>
 
 <a href="https://youtu.be/djhH_A0icwM?si=9dVfFOTFlBGoLFHv">Simple Encryptor</a>
 
