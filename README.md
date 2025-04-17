@@ -14,10 +14,10 @@
 <a href="#nc">NahamCon</a>
 
 <a href="#thm">TryHackMe</a>
-# Vulnerabilities
+## BUG Boundy & Web Vulnerabilities
 <a href="#web">Web Vulnerabilities </a>
 
-# Network Fundamentals
+## Network Fundamentals
 
 ### <a href="https://adithyakrishnav.blogspot.com/2025/03/cisco-devises-configuration-commands.html" > CCNA: Cisco Certified Network Associate (200-301) </a>
 
