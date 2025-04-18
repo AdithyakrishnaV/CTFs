@@ -34,7 +34,7 @@
 ### <a href="https://www.youtube.com/playlist?list=PL2K366VwU2XEjLQf7er_dBYgUDA-gyqSb">DSA in C programming Malayalam Playlist </a>
 ### <a href="https://github.com/AdithyakrishnaV/Data-Structures-and-Algorithms">Data Structures and Algorithms </a>
 ### <a href="https://github.com/AdithyakrishnaV/Python-for-Penetration-Testing">Python for Penetration Testing  </a>
-### <a href="https://github.com/AdithyakrishnaV/Binary_Exploitation/tree/master">Binary Exploitation</a>
+### <a href="https://github.com/AdithyakrishnaV/Binary_Exploitation/tree/master">Binary Exploitation Basics</a>
 ------------------------------------------
 
 <h2 id="htb">HackTheBox</h2>
