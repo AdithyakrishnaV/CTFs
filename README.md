@@ -1,5 +1,5 @@
 # CTFs & Exploitation Guide 
-#### To Hackers By Adhi
+#### Bug Boundy, Ctf, Apk, Reverse Engineering & Binary explotation By Adhi
 <a href="https://www.paypal.com/ncp/payment/7FFKGJYENL562" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### <a href="https://www.youtube.com/@adithyakrishna_v/videos" > YouTube </a> |   <a href="https://adithyakrishnav.blogspot.com/2024/11/bug-boundy-methodology-tools-resources.html" > Bug Boundy Guide </a>
@@ -14,17 +14,24 @@
 <a href="#nc">NahamCon</a>
 
 <a href="#thm">TryHackMe</a>
-### BUG Boundy & Web Vulnerabilities 
+## BUG Boundy & Web Vulnerabilities 
 <a href="#bb">BUG Boundy Videos</a>
+
 <a href="#web">Web Vulnerabilities </a>
+
+## Apk & Binary explotation (Reversing & boundy)
+<a href="#apk">Apk Reversing & Bug Boundy </a>
+
+<a href="#binary">Reverse Engineer & Binary Exploitation </a>
 
 ## Network Fundamentals
 
 ### <a href="https://adithyakrishnav.blogspot.com/2025/03/cisco-devises-configuration-commands.html" > CCNA: Cisco Certified Network Associate (200-301) </a>
 
-# Code To Learn Binary exploitation
+# Code To Learn Binary Exploitation
 
 ### <a href="https://adithyakrishnav.blogspot.com/2025/03/making-chip-8-emulator-inc.html">Chip-8 Emulator</a>
+### <a href="https://www.youtube.com/playlist?list=PL2K366VwU2XEjLQf7er_dBYgUDA-gyqSb">DSA in C programming Malayalam Playlist </a>
 ### <a href="https://github.com/AdithyakrishnaV/Data-Structures-and-Algorithms">Data Structures and Algorithms </a>
 ### <a href="https://github.com/AdithyakrishnaV/Python-for-Penetration-Testing">Python for Penetration Testing  </a>
 ### <a href="https://github.com/AdithyakrishnaV/Binary_Exploitation/tree/master">Binary Exploitation</a>
@@ -95,6 +102,9 @@
 
 ### <a href="https://youtu.be/3hFyM0kbxPI?si=cKayllKeffOLXcZq"> How to install Kali Linux in VMware Workstation on Windows 11 </a>
 
+### <a href="https://youtu.be/XLOgxJao2pE?si=xbvOXst0P4_PTDB7">Git Dorking: Github Advanced Search Techniques </a>
+
+### <a href="https://youtu.be/RT6OUDuhLFs?si=AR3k7SBvk-03OvK8">Wayback Machines: Unveiling Internet Archive the Digital Time Travel</a>
 
 <h2 id="web">Web Vulnerabilities</h2>
 
@@ -114,4 +124,20 @@
 
 ### <a href="https://adithyakrishnav.blogspot.com/2025/03/apk-bug-boundy-guide.html" > Apk Android Bug Boundy Guide</a>
 
-### <a href=""> Find </a>
+<h2 id="bb">Apk Bug Boundy & Reverse Engineering</h2>
+
+### <a href="https://youtu.be/tc6DtQSi4s8?si=dx3E12kvKBcf5oSk">Epic games: APK Bug Hunting: APKLeaks, Nuclei, APKTool </a>
+
+### <a href="https://youtu.be/3WBuZjCk4Xs?si=9E2OfDB7uBwSuuGX">APK Bug Hunting with MobSF </a>
+
+<h2 id="binary">Reverse Engineer & Binary Exploitation</h2>
+
+### <a href="https://youtu.be/qy-eY-pKLfw?si=RxHaNzIcgwH_H3cU">Compilation Process in C </a>
+
+### <a href="https://youtu.be/hLleUga_LOQ?si=XQotu3GxF7JhhQ3h">Reference and Dereference | Pointers in C </a>
+
+### <a href="https://youtu.be/jKVMCS5aSW4?si=svO5yAE3zv8U_Qbt">lea vs mov: Load Effective Address vs Move in x86 assembly </a>
+
+### <a href="https://youtu.be/lIaZQFEtlKw?si=cd_uYqycJVr96aa4">Log files- windows & linux  </a>
+
+### <a href="https://youtu.be/LdkOWHJjUU4?si=3OJ5Kpt0J8ii8QE9">Install and Set Up CodeLLDB in VS Code | Debugging C </a>
