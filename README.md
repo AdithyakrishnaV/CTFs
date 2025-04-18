@@ -14,7 +14,8 @@
 <a href="#nc">NahamCon</a>
 
 <a href="#thm">TryHackMe</a>
-## BUG Boundy & Web Vulnerabilities
+### BUG Boundy & Web Vulnerabilities 
+<a href="#bb">BUG Boundy Videos</a>
 <a href="#web">Web Vulnerabilities </a>
 
 ## Network Fundamentals
@@ -76,6 +77,25 @@
 
 <a href="https://www.youtube.com/watch?v=V3B_Ch3yEmM">KoTH Food CTF</a>
 
+<h2 id="bb">BUG Boundy Videos</h2>
+
+### <a href="https://adithyakrishnav.blogspot.com/2024/11/bug-boundy-methodology-tools-resources.html"> Bug Boundy Methodology, Tools & Resources </a>
+
+### <a href="https://www.youtube.com/watch?v=LST7FuCwb3Q" > API Bug Bounty Hunting: Reconnaissance and Reverse Engineering an API</a>
+
+### <a href="https://www.youtube.com/watch?v=ULaOL_LLWcs">Bug Boundy Hunting | Leaked Credentials | TruffleHog </a>
+
+### <a href="https://www.youtube.com/watch?v=229OID664ho">How to Pick Unique Bug Bounty Targets  </a>
+
+### <a href="https://www.youtube.com/watch?v=bSn7tWFP354">SSRF | Your First Critical Bounty! Beginner method  </a>
+
+### <a href="https://youtu.be/0shZHnJ7EJc?si=wqX_tdUuP_ax4FDO"> Find More Hidden Urls Waymore</a>
+
+### <a href="https://youtu.be/g_9vYf9FkoU?si=AGVQ_x1TH_eLY9aV"> KiteRunner: Fuzzing Hidden API Endpoints  </a>
+
+### <a href="https://youtu.be/3hFyM0kbxPI?si=cKayllKeffOLXcZq"> How to install Kali Linux in VMware Workstation on Windows 11 </a>
+
+
 <h2 id="web">Web Vulnerabilities</h2>
 
 ### <a href="https://adithyakrishnav.blogspot.com/2025/03/sql-injection-web-security-academy.html" target="_blank" >SQL Injection Union attack & Blind SQL</a>
@@ -92,11 +112,6 @@
 
 ### <a href="https://adithyakrishnav.blogspot.com/2025/03/business-logic-vulnerabilities-or.html" >Business Logic Vulnerabilities or Application Logic Vulnerabilities or simply “logic flaws” </a>
 
-### <a href="https://adithyakrishnav.blogspot.com/2025/03/apk-bug-boundy-guide.html" > Apk Bug Boundy Guide</a>
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/apk-bug-boundy-guide.html" > Apk Android Bug Boundy Guide</a>
 
-### <a href="https://www.youtube.com/watch?v=LST7FuCwb3Q" > API Bug Bounty Hunting: Reconnaissance and Reverse Engineering an API</a>
-
-### <a href="https://www.youtube.com/watch?v=ULaOL_LLWcs">Bug Boundy Hunting | Leaked Credentials | TruffleHog </a>
-
-### <a href="https://medium.com/towardsdev/apk-bug-boundy-guide-7968d04baf7e"> Apk Bug Boundy Guide </a>
-
+### <a href=""> Find </a>
