@@ -124,7 +124,7 @@
 
 ### <a href="https://adithyakrishnav.blogspot.com/2025/03/apk-bug-boundy-guide.html" > Apk Android Bug Boundy Guide</a>
 
-<h2 id="bb">Apk Bug Boundy & Reverse Engineering</h2>
+<h2 id="apk">Apk Bug Boundy & Reverse Engineering</h2>
 
 ### <a href="https://youtu.be/tc6DtQSi4s8?si=dx3E12kvKBcf5oSk">Epic games: APK Bug Hunting: APKLeaks, Nuclei, APKTool </a>
 
