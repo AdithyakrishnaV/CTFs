@@ -138,6 +138,8 @@
 
 ### <a href="https://youtu.be/jKVMCS5aSW4?si=svO5yAE3zv8U_Qbt">lea vs mov: Load Effective Address vs Move in x86 assembly </a>
 
-### <a href="https://youtu.be/lIaZQFEtlKw?si=cd_uYqycJVr96aa4">Log files- windows & linux  </a>
+### <a href="https://adithyakrishnav.blogspot.com/2024/11/radare2-commands-for-reverse-engineering.html"> Radare2 -commands for Reverse Engineering </a>
 
 ### <a href="https://youtu.be/LdkOWHJjUU4?si=3OJ5Kpt0J8ii8QE9">Install and Set Up CodeLLDB in VS Code | Debugging C </a>
+
+### <a href="https://youtu.be/lIaZQFEtlKw?si=cd_uYqycJVr96aa4">Log files- windows & linux  </a>
