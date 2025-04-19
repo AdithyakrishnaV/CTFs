@@ -4,7 +4,7 @@
 
 ### <a href="https://www.youtube.com/@adithyakrishna_v/videos" > YouTube </a> |   <a href="https://adithyakrishnav.blogspot.com/2024/11/bug-boundy-methodology-tools-resources.html" > Bug Boundy Guide </a>
 ---------------------------------------------------
-## CTF's
+## CTF's: Web & Reverse Engineering
 <a href="#htb">HackTheBox</a>
 
 <a href="#hts">HackThisSite</a>
