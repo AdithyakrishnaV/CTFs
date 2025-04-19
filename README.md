@@ -1,5 +1,5 @@
 # CTFs & Exploitation Guide 
-#### Bug Boundy, Ctf, Apk, Reverse Engineering & Binary explotation By Adhi
+#### Bug Boundy, Ctf, Apk, Reverse Engineering & Binary exploitation By Adhi
 <a href="https://www.paypal.com/ncp/payment/7FFKGJYENL562" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### <a href="https://www.youtube.com/@adithyakrishna_v/videos" > YouTube </a> |   <a href="https://adithyakrishnav.blogspot.com/2024/11/bug-boundy-methodology-tools-resources.html" > Bug Boundy Guide </a>
@@ -64,9 +64,9 @@
 
 <h2 id="hts">HackThisSite</h2>
   
-### <a href="https://www.youtube.com/playlist?list=PL2K366VwU2XE8v6uCyljhywoMKKJFj5Og">YouTube</a>
+### <a href="https://www.youtube.com/playlist?list=PL2K366VwU2XE8v6uCyljhywoMKKJFj5Og">Solution Video YouTube </a>
 
-### <a href="https://medium.com/@adithyakrishnav001/hackthissite-basics-full-b32aa0a99424">Basics</a>
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/hackthissite-basics-1-9-challenges-made.html">Basics</a>
   
 ### Realistic:-
 ### <a href="https://adithyakrishnav.blogspot.com/2025/03/uncle-arnolds-local-band-review.html" >Uncle Arnold’s Local Band Review</a>
