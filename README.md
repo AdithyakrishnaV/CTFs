@@ -90,6 +90,8 @@
 
 ### <a href="https://www.youtube.com/watch?v=LST7FuCwb3Q" > API Bug Bounty Hunting: Reconnaissance and Reverse Engineering an API</a>
 
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/api-bug-bounty-hunting-reconnaissance.html" > API Bug Bounty Hunting: Reconnaissance and Reverse Engineering an API </a> Blog
+
 ### <a href="https://www.youtube.com/watch?v=ULaOL_LLWcs">Bug Boundy Hunting | Leaked Credentials | TruffleHog </a>
 
 ### <a href="https://www.youtube.com/watch?v=229OID664ho">How to Pick Unique Bug Bounty Targets  </a>
@@ -141,5 +143,7 @@
 ### <a href="https://adithyakrishnav.blogspot.com/2024/11/radare2-commands-for-reverse-engineering.html"> Radare2 -commands for Reverse Engineering </a>
 
 ### <a href="https://youtu.be/LdkOWHJjUU4?si=3OJ5Kpt0J8ii8QE9">Install and Set Up CodeLLDB in VS Code | Debugging C </a>
+
+### <a href="https://adithyakrishnav.blogspot.com/2025/03/lldb-comprehensive-guide-to-debugging.html">LLDB: A Comprehensive Guide to Debugging</a>
 
 ### <a href="https://youtu.be/lIaZQFEtlKw?si=cd_uYqycJVr96aa4">Log files- windows & linux  </a>
