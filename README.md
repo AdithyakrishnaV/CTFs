@@ -1,4 +1,4 @@
-# CTFs & Exploitation Guide 
+# CTFs, Bug Bounty & Exploitation Guide 
 #### Bug Boundy, Ctf, Apk, Reverse Engineering & Binary exploitation By Adhi
 <a href="https://www.paypal.com/ncp/payment/7FFKGJYENL562" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -107,6 +107,8 @@
 ### <a href="https://youtu.be/XLOgxJao2pE?si=xbvOXst0P4_PTDB7">Git Dorking: Github Advanced Search Techniques </a>
 
 ### <a href="https://youtu.be/RT6OUDuhLFs?si=AR3k7SBvk-03OvK8">Wayback Machines: Unveiling Internet Archive the Digital Time Travel</a>
+
+### <a href="https://youtu.be/dDZ7Yvnn2yg?si=V-Uk6yKYlYoEYECK">Hunting HTTP Request Smuggling/ Desynchronization Attack </a>
 
 <h2 id="web">Web Vulnerabilities</h2>
 
