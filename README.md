@@ -30,7 +30,7 @@
 
 # Code To Learn Binary Exploitation
 
-### <a href="https://adithyakrishnav.blogspot.com/2025/03/making-chip-8-emulator-inc.html">Chip-8 Emulator</a>
+### <a href="https://youtu.be/F-pHzOvkKoc?feature=shared">Chip-8 Emulator (Video & Blog)</a>
 ### <a href="https://www.youtube.com/playlist?list=PL2K366VwU2XEjLQf7er_dBYgUDA-gyqSb">DSA in C programming Malayalam Playlist </a>
 ### <a href="https://github.com/AdithyakrishnaV/Data-Structures-and-Algorithms">Data Structures and Algorithms </a>
 ### <a href="https://github.com/AdithyakrishnaV/Python-for-Penetration-Testing">Python for Penetration Testing  </a>
