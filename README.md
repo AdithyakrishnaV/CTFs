@@ -17,6 +17,8 @@
 ## BUG Boundy & Web Vulnerabilities 
 <a href="#bb">BUG Boundy Videos</a>
 
+<a href="https://youtube.com/playlist?list=PLJUWI4Y7MafVGK4BxBdPtk3jMsxDHj233&si=C0NnSyFXBKSAmwJT">Bug Boundy Malayalam Videos</a>
+
 <a href="#web">Web Vulnerabilities </a>
 
 ## Apk & Binary explotation (Reversing & boundy)
