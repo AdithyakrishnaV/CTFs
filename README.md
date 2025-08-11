@@ -114,6 +114,8 @@
 
 <h2 id="web">Web Vulnerabilities</h2>
 
+### <a href="https://adithyakrishnav.blogspot.com/2025/08/http-request-smuggling-in-bug-bounty.html"> HTTP Request Smuggling In Bug Hunting: including Client-Side Desync </a>
+
 ### <a href="https://adithyakrishnav.blogspot.com/2025/03/sql-injection-web-security-academy.html" target="_blank" >SQL Injection Union attack & Blind SQL</a>
 
 ### <a href="https://adithyakrishnav.blogspot.com/2025/03/broken-access-controls-idor-access.html" target="_blank" >Broken Access Controls & IDOR: Access control vulnerabilities and privilege escalation</a>
